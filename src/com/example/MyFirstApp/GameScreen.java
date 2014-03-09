@@ -1,15 +1,14 @@
 package com.example.MyFirstApp;
 
 import java.util.List;
-
 import android.graphics.Color;
 import android.graphics.Paint;
-
 import com.kilobolt.framework.Game;
 import com.kilobolt.framework.Graphics;
 import com.kilobolt.framework.Image;
 import com.kilobolt.framework.Screen;
 import com.kilobolt.framework.Input.TouchEvent;
+
 
 
 public class GameScreen extends Screen {
